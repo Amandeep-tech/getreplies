@@ -1,0 +1,1 @@
+export const HOST = 'http://bb6b-106-51-37-129.ngrok-free.app'
